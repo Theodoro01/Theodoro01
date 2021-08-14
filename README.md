@@ -1,12 +1,13 @@
 <span align="center">
 
-###  Olá, seja bem vindo(a) ao meu  perfil. 
+##  Olá, seja bem vindo(a) ao meu  perfil. 
 
-<div>
-  <a href="https://github.com/theodoro01"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theodoro01&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoro01&layout=compact&langs_count=7&theme=tokyonight"/>
+<div> 
+   <a href="https://github.com/theodoro01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?        username=theodoro01&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoro01&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
+  
 </span>
 
 <p align="center">
@@ -21,3 +22,14 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
+## Technologies & Tools
+
+<p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25">
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="25">
+</p>
