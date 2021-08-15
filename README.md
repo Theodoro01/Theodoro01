@@ -1,11 +1,13 @@
 <span align="center">
 
 ##  Olá, seja bem vindo(a) ao meu  perfil. 
+  
 <p align="center">
   Sou estudante de <strong> programação </strong> e nesse meu perfil <br> 
     disponibilizei alguns projetos em <strong>Javascript, Nodejs, EJS, MySql, HTML, CSS...</strong> Que realizar<br> 
     durante minha rotina de Estudos.
 </p>
+  
 </span>
 
 <p align="center">
