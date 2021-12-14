@@ -3,9 +3,9 @@
 ##  Olá, seja bem vindo(a) ao meu  perfil. 
   
 <p align="center">
-  Sou estudante de <strong> programação </strong> e nesse meu perfil <br> 
-    disponibilizei alguns projetos em <strong>Javascript, Nodejs, EJS, MySql, HTML, CSS...</strong> Que realizar<br> 
-    durante minha rotina de Estudos.
+  Sou Desenvolvedor De Sistemas e nesse meu perfil <br> 
+    disponibilizei alguns projetos em <strong>Javascript, Nodejs, HTML, CSS...</strong> Que realizar<br> 
+    durante minha rotina de projetos e estudos. Espero que gostem!
 </p>
   
 </span>
