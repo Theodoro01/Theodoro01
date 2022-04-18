@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://t.me/Theodoro01" alt="Telegram">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"></a>
-
+<a href="https://www.linkedin.com/in/theodoro-vieira-9a1b10232" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theodoro-vieira-9a1b10232"/></a>
 
 ## Technologies & Tools
 
