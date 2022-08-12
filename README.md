@@ -4,7 +4,7 @@
   
 <p align="center">
   Sou Desenvolvedor Back-end e nesse meu perfil <br> 
-    disponibilizei alguns projetos em <strong>Javascript e Nodejs </strong> Que realizar<br> 
+    disponibilizei alguns projetos em <strong>Javascript e Nodejs </strong> que realizar<br> 
     durante minha rotina de projetos e estudos.<br>  
     Espero que gostem!
 </p>
