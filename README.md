@@ -3,9 +3,10 @@
 ##  Olá, seja bem vindo(a) ao meu  perfil. 
   
 <p align="center">
-  Sou Desenvolvedor De Sistemas e nesse meu perfil <br> 
-    disponibilizei alguns projetos em <strong>Javascript, Nodejs, HTML, CSS...</strong> Que realizar<br> 
-    durante minha rotina de projetos e estudos. Espero que gostem!
+  Sou Desenvolvedor Back-end e nesse meu perfil <br> 
+    disponibilizei alguns projetos em <strong>Javascript e Nodejs </strong> Que realizar<br> 
+    durante minha rotina de projetos e estudos.<br>  
+    Espero que gostem!
 </p>
   
 </span>
